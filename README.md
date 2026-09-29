@@ -36,21 +36,6 @@ The confusion matrix below demonstrates model generalization evaluated on the **
 ---
 
 ## 🚀 Quick Start
+git clone https://github.com/mahdim7896-alt/Bearing-Fault-Diagnosis-Predictive-Maintenance-System.git
+cd Bearing-Fault-Diagnosis-Predictive-Maintenance-System
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/YOUR_USERNAME/bearing-fault-diagnosis.git
-cd bearing-fault-diagnosis
-
-2. Install dependencies
-pip install -r requirements.txt
-
-
-3. Run the complete pipeline
-python main.py
-
-📂 Project Structure
-├── main.py              # Main training and evaluation pipeline
-├── requirements.txt     # Python dependencies
-├── Figure_1.png         # Model evaluation artifact (Confusion matrix)
-└── README.md            # Project documentation
