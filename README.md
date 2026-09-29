@@ -39,3 +39,15 @@ The confusion matrix below demonstrates model generalization evaluated on the **
 git clone https://github.com/mahdim7896-alt/Bearing-Fault-Diagnosis-Predictive-Maintenance-System.git
 cd Bearing-Fault-Diagnosis-Predictive-Maintenance-System
 
+## 2. Install dependencies
+pip install -r requirements.txt
+
+## 3. Run the complete pipeline
+python main.py
+
+## 📂 Project Structure
+├── main.py
+├── requirements.txt
+├── Figure_1.png
+└── README.md
+
